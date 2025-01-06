@@ -5,7 +5,7 @@ export default function Hero() {
   return (
     <div className="relative h-screen">
       <Image
-        src="https://images.unsplash.com/photo-1502920917128-1aa500764cbd?auto=format&fit=crop&q=80"
+        src="https://media.gettyimages.com/id/1310663844/photo/woman-enjoying-alone-in-luxury-swimming-pool-drone-view-from-above.jpg?s=612x612&w=0&k=20&c=-fRZCRp30eb19LxKUgiQEkC1kQRboqMTqt4IHfhCpHg="
         alt="Luxury Travel"
         fill
         className="object-cover"

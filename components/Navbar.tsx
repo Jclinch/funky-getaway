@@ -55,7 +55,7 @@ export default function Navbar() {
               <Link
                 key={item.name}
                 href={item.href}
-                className="font-mono text-blue-darkest hover:text-orange transition-colors"
+                className="font-mono text-gray-200 hover:text-orange transition-colors"
               >
                 {item.name}
               </Link>
